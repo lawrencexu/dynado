@@ -51,4 +51,4 @@ After that, the dist folder will contain the built application with ain `index.h
 - For the backend, [this article](https://medium.com/better-programming/store-fetch-from-dynamodb-with-aws-lambda-342d1785a5d0)
   served as a starting point.
 
-# Modified by Lawrence  
+## Modified by Lawrence  
