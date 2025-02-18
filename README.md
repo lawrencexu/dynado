@@ -50,3 +50,5 @@ After that, the dist folder will contain the built application with ain `index.h
 - The frontend is based on [this sample app](https://github.com/Banderstadt/vue-todo-app).
 - For the backend, [this article](https://medium.com/better-programming/store-fetch-from-dynamodb-with-aws-lambda-342d1785a5d0)
   served as a starting point.
+
+# Modified by Lawrence  
